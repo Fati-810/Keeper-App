@@ -1,5 +1,5 @@
 # Keeper App
-Keeper App is a minimal, responsive note-taking web application designed for quickly creating, saving, and managing short text notes. It mimics the functionality of Google Keep with a clean and simple interface for personal use.
+Keeper App is a **minimal**, **responsive note-taking web application** designed for quickly creating, saving, and managing short text notes. It mimics the functionality of Google Keep with a **clean** and **simple interface** for personal use.
 
 
 # Features:
