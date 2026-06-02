@@ -16,13 +16,13 @@ Keeper App is a **minimal**, **responsive note-taking web application** designed
 
 ## Technical Overview: (Behind the Scenes)
 
-Frontend Framework: Vanilla JavaScript and React.
+**Frontend Framework:** Vanilla JavaScript and React.
 
-Styling: Custom CSS for Layout, Responsiveness, and Animations.
+**Styling:** Custom CSS for Layout, Responsiveness, and Animations.
 
-State Management: JavaScript Arrays and LocalStorage for Persisting Data.
+**State Management:** JavaScript Arrays and LocalStorage for Persisting Data.
 
-Deployment: Hosted on Vercel for seamless CI/CD and Fast Global Delivery.
+**Deployment:** Hosted on Vercel for seamless CI/CD and Fast Global Delivery.
 
 No Backend Required – 100% Client-side App.
 
@@ -32,9 +32,10 @@ https://keeper-app-umber-omega.vercel.app/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+
+**Developer:** *Fatimah Ali*  
+**Website:** fatimahdigitaledge.com  
+**GitHub:** github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
